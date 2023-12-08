@@ -1,0 +1,38 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.grppl.android.shell.CMBlloydsTSB73",
+            "sha256_cert_fingerprints": [
+                "CD:5A:3E:3F:58:F2:08:58:96:B7:23:12:16:6D:D6:E3:3A:42:7B:AF:FA:5E:A7:3C:7B:A5:13:C9:FE:1B:91:E2"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.grppl.android.shell.BOS",
+            "sha256_cert_fingerprints": [
+                "CD:5A:3E:3F:58:F2:08:58:96:B7:23:12:16:6D:D6:E3:3A:42:7B:AF:FA:5E:A7:3C:7B:A5:13:C9:FE:1B:91:E2"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.grppl.android.shell.halifax",
+            "sha256_cert_fingerprints": [
+                "CD:5A:3E:3F:58:F2:08:58:96:B7:23:12:16:6D:D6:E3:3A:42:7B:AF:FA:5E:A7:3C:7B:A5:13:C9:FE:1B:91:E2"
+            ]
+        }
+    }
+]

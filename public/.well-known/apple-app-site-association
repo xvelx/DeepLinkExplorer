@@ -1,0 +1,49 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "D24KY3EF68.com.lloydstsb.LloydsTSB",
+                "paths": [
+                    "/deeplink/*",
+                    "/about"
+                ]
+            },
+            {
+                "appID": "P258R4GL6F.com.lbg.mobile.rlloyds",
+                "paths": [
+                    "/deeplink/*",
+                    "/about"
+                ]
+            },
+            {
+                "appID": "D24KY3EF68.com.bos.mobilebank",
+                "paths": [
+                    "/deeplink/*",
+                    "/about"
+                ]
+            },
+            {
+                "appID": "P258R4GL6F.com.lbg.mobile.rbos",
+                "paths": [
+                    "/deeplink/*",
+                    "/about"
+                ]
+            },
+            {
+                "appID": "D24KY3EF68.com.halifax.mobilebank",
+                "paths": [
+                    "/deeplink/*",
+                    "/about"
+                ]
+            },
+            {
+                "appID": "P258R4GL6F.com.lbg.mobile.halifax",
+                "paths": [
+                    "/deeplink/*",
+                    "/about"
+                ]
+            }
+        ]
+    }
+}
