@@ -15,7 +15,7 @@
                     "/deeplink/*",
                     "/about"
                 ]
-            },
+            }, 
             {
                 "appID": "D24KY3EF68.com.bos.mobilebank",
                 "paths": [
