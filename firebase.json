@@ -19,6 +19,29 @@
           }
         ]
       }
+    ],
+    "redirects": [
+      {
+        "source": "/app_link",
+        "destination": "intent://account-aggregation#Intent;scheme=lloyds-retail;package=com.grppl.android.shell.CMBlloydsTSB73;S.browser_fallback_url=https%3A%2F%2Fsecure.lloydsbank.co.uk%2Fpersonal%2Fa%2Frmi%2F;end",
+        "type": 301
+      },
+      {
+        "source": "/app_link2",
+        "destination": "lloyds-retail://account-aggregation",
+        "type": 301
+      },
+      {
+        "source": "/app_link3",
+        "destination": "lloyds-retail://invlid-link",
+        "type": 301
+      }
     ]
+  },
+  "emulators": {
+    "hosting": {
+      "port": 5002,
+      "host": "0.0.0.0"
+    }
   }
 }

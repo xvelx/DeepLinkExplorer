@@ -13,10 +13,10 @@ export default function DeepLinkRedirector() {
             router.push("/about")
         },2000)
 
-    }, [])
+    }, [router])
     // console.log(pathName)
 
     return (
-        <h1> redirected</h1>
+        <h1> redirected in 2 sec</h1>
     )
 }
